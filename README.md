@@ -1,2 +1,2 @@
-# finix
+# fixins
 website for downloading.
